@@ -13,4 +13,4 @@ sudo yum install -y docker-engine
 sudo systemctl enable docker
 sudo systemctl start docker
 
-sudo usermod -a -G docker vagrant
+sudo usermod -a -G docker vagrant #edit existing system user (vagrant)
