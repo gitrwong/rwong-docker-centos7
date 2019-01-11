@@ -1,6 +1,5 @@
-# rwong-docker-centos7
-Script to automate docker installation.
+#Script to automate docker installation in different distribution and version.
 
 #Installation for centos7
-1. after pulling this script on github change the file permission and add execute to user.
+1. go to the correct directory
 2. run the script 
